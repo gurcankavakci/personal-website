@@ -1,5 +1,7 @@
 # vCard - Personal portfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a5aa5b1-713e-4c2f-b959-2fc1f7a807db/deploy-status)](https://app.netlify.com/sites/gurcankavakci/deploys)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
